@@ -3,6 +3,7 @@
 <head>School's Quick Links Page</head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</meta>
   <style>
     body {
       font-family: Calibri, sans-serif;
