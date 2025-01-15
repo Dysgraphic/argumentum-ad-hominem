@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>School's Quick Links Page</head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>School's Quick Links Page</title>
   <style>
     body {
       font-family: Calibri, sans-serif;
@@ -11,7 +10,6 @@
       line-height: 1.6;
     }
   </style>
-</head>
 <body>
   <h1>Why I wrote it?</h1>
   <p>
